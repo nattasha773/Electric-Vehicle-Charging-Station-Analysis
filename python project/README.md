@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ⚡ Project 26: Electric Vehicle Charging Station Analysis
 
 A comprehensive, reproducible data science and operational intelligence project analyzing Electric Vehicle (EV) charging behavior, energy distribution, dwell durations, and station availability.
@@ -168,3 +169,7 @@ print(session.get_average_power_kw())
 ## 📜 License & Reproducibility
 
 This project is licensed under the MIT License. All analyses and figures are completely reproducible by executing `ev_charging_analysis.py` against `26_ev_charging_sessions.csv`.
+=======
+# Electric-Vehicle-Charging-Station-Analysis
+HCL PROJECT
+>>>>>>> 057dea7585bf44df2e0561d57f2c087066bf5e65
